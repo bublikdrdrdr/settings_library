@@ -1,4 +1,4 @@
-package com.bublik.rozklad;
+package com.bublik.yourpackage;
 
 import android.content.Context;
 import android.graphics.Bitmap;
